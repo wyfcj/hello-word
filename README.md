@@ -2,4 +2,4 @@
  
 Hi Humans!
 Mubot here, I like Node.js and Coffeescript
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
