@@ -1,2 +1,4 @@
 # hello-word
-just another repository
+ 
+Hi Humans!
+Mubot here, I like Node.js and Coffeescript
